@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/man-pays-btc-in-child-support",
+      "destination": "https://cook1art.vercel.app/"
+    }
+  ]
+}
