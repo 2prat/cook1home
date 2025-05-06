@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/man-fakes-death-for-tax-evasion",
-      "destination": "https://cook2art.vercel.app/"
+      "source": "/man-pays-btc-in-child-support",
+      "destination": "https://cook1art.vercel.app/"
     }
   ]
 }
